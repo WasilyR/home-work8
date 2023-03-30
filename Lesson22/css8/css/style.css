@@ -1,0 +1,7 @@
+.content__text {
+	padding: 25px 25px 0px 25px;
+	height: 50vmin;
+	width: 50vmax;
+	overflow: auto;
+	height: 100px;
+}
